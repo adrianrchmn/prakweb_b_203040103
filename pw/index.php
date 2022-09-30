@@ -44,6 +44,8 @@ if( isset($_POST["cari"]) ) {
 </head>
 <body>
 
+<h1>DAFTAR MAHASISWA</h1>
+
 <!-- navbar -->
 <div class="jumbotron jumbotron-fluid">
     <div class="container text-center">
