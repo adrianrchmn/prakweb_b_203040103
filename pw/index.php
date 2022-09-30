@@ -44,6 +44,7 @@ if( isset($_POST["cari"]) ) {
 </head>
 <body>
 
+
 <h1>DAFTAR MAHASISWA</h1>
 
 <!-- navbar -->
