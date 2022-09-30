@@ -1,0 +1,25 @@
+.container {
+	width: 30%;
+	margin-top: 9%;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+	padding: 40px;
+}
+
+button {
+	width: 48%;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html{
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A605, #23D5AB);
+	background-size: 400% 400%;
+	position: relative;
+}
